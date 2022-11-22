@@ -1,6 +1,6 @@
 # Haxor DX Bug Bounty
 
-> Haxor is a community of developers that helps the maintainers of devtools improve their developer experience (DX).
+> Haxor is a community of developers that helps devtools maintainers improve their developer experience (DX).
 
 ## Welcome
 
@@ -25,19 +25,18 @@ Your experience will help maintainers improve their tools and remove friction fo
 
 # Prizes
 
-- Haxor Mug - 6 points
-- Haxor Tee-Shirt - 9 points
-- Gift Card - 30 points
-- Nintendo Switch - 100 points
+- Haxor Mug - 3 issues
+- Haxor Tee-Shirt - 9 issues
+- Gift Card - 21 issues
+- Steam Deck - 100 issues
 
 # Earning Prizes
 
-Everyone is welcome to participate in Haxor Challenges at any level.
+Everyone is welcome to participate in Haxor Challenges at any level. 
 
-In order to earn points, your issue must meet our minimum quality standards (MQS). Our quality standards exist to ensure that maintainers get a valuable amount of context and our system isn't being gamed.
+In order to earn prizes, your issues must include a Replayable replay. Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to open tickets without ruining your flow and ensure maintainers get a valuable amount of context. 
 
-- Regular Feedback is worth 1 point.
-- Feedback with a Replayable replay attached is worth 2 points.
+Replayable is made by Haxor! If you want to learn more, join the Replayable discord. 
 
 # Getting Started
 
@@ -78,3 +77,5 @@ Want to participate in Haxor?
 - Make a pull request to the list above linking to your tool
 - Developers will be notified of your new challenge!
 - Survey
+
+# Participants
