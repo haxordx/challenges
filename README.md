@@ -1,3 +1,5 @@
+<img width="1262" alt="CleanShot 2022-11-22 at 01 00 29@2x" src="https://user-images.githubusercontent.com/318295/203246618-b2d303bf-9b1c-4b31-bbda-8fbe29085775.png">
+
 ![Haxor DX Bounty Logo](https://user-images.githubusercontent.com/318295/203244248-56430fc0-a709-4f58-93b4-5f8062a623af.png)
 
 # Haxor DX Bounty
@@ -26,6 +28,8 @@ Everyone is welcome to participate in our challenges. Giving feedback is as easy
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
 
 # Prizes
+
+<img width="1433" alt="CleanShot 2022-11-22 at 00 52 02@2x" src="https://user-images.githubusercontent.com/318295/203244995-2b96c4db-5895-496b-875a-16a252b2d806.png">
 
 - Haxor Mug - 3 issues
 - Haxor Tee-Shirt - 9 issues
