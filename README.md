@@ -16,7 +16,7 @@ Here you level up and earn prizes by learning new APIs, SDKs, and developer tool
 
 Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Every challenge takes between 15 minutes to 2 hours and you complete them on your own machine, with your own IDE! So come learn new skills, help other developers, and earn some prizes along the way!
 
-# Sponsors
+## Sponsors
 
 <p float="left">
 <a href="https://replayable.io">
