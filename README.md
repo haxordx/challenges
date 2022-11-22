@@ -27,7 +27,7 @@ Your experience will help maintainers improve their tools and remove friction fo
 
 - Haxor Mug - 3 issues
 - Haxor Tee-Shirt - 9 issues
-- Gift Card - 21 issues
+- Gift Card - 30 issues
 - Steam Deck - 100 issues
 
 # Earning Prizes
@@ -38,14 +38,14 @@ In order to earn prizes, your issues must include a Replayable replay. Replayabl
 
 Replayable is made by Haxor! If you want to learn more, join the Replayable discord. 
 
+**Keep an eye out for new challenges!** The first 3 people to finish any challenge get a Haxor tee-shirt!
+
 # Getting Started
 
+- Install Replayable, you'll need it to report feedback
 - Navigate to the test repository and follow the instructions there
 - Start a timer for how long the site says
-
-## How to provide feedback
-
-Currently the only languages we support are Javascript and Java.
+- Do the stuff in "completing a challenge"
 
 # Rules
 
@@ -60,6 +60,26 @@ Currently the only languages we support are Javascript and Java.
 # What does quality feedback look like?
 
 (get examples from coda.io)
+
+# FAQ
+
+## What programming languages?
+
+Currently the only languages we support are Javascript and Java.
+
+## What happens after I file an issue? How do I get a prize?
+
+After you file an issue, someone from Haxor will respond, approve your feedback, and tell you how close you are to the next prize!
+
+## What happens when I complete a challenge?
+
+You can add yourself to the "Completed By" section. The profiles there are awarded from first to last! There might be special awards for finishing first.
+
+Each challenge might have different criteria for complete.
+
+- Fork the challenge repository.
+- Add your profile image to the "finishers."
+- Create a pull request with a replay of you reaching the goal.
 
 # About
 
