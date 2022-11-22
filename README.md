@@ -1,3 +1,5 @@
+![Haxor DX Bounty Logo](https://user-images.githubusercontent.com/318295/203244248-56430fc0-a709-4f58-93b4-5f8062a623af.png)
+
 # Haxor DX Bounty
 
 > Haxor is a community effort to help devtools maintainers improve their developer experience (DX).
