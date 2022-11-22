@@ -38,6 +38,8 @@ Your experience will help maintainers improve their tools and remove friction fo
 
 # Earning Prizes
 
+> I almost didn’t participate because it seemed too easy, but I earned a gift card and it was STILL easy. Highly recommended.
+
 Everyone is welcome to participate in Haxor Challenges at any level. 
 
 In order to earn prizes, your issues must include a Replayable replay. 
