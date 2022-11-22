@@ -19,12 +19,17 @@ Our feedback sessions are called challenges. Every challenge asks you to build a
 # Sponsors
 
 <p float="left">
-
+<a href="https://replayable.io">
 <img height="30" src="https://user-images.githubusercontent.com/318295/203247573-b4f2e617-bb6c-49fd-b6e1-68141d3828ba.png">
+</a>
 &nbsp;&nbsp;
-<img height="30" src="https://user-images.githubusercontent.com/318295/203247474-984f7cf2-ca49-48fe-a074-e7dc786bb24c.png">
+<a href="https://pubnub.com">
+  <img height="30" src="https://user-images.githubusercontent.com/318295/203247474-984f7cf2-ca49-48fe-a074-e7dc786bb24c.png">
+  </a>
 &nbsp;&nbsp;
-<img width="143" alt="CleanShot 2022-11-22 at 01 10 01@2x" src="https://user-images.githubusercontent.com/318295/203248304-34a30601-b811-4f8c-9744-6690d9073794.png">
+<a href="https://mlh.io">
+<img height="30" alt="CleanShot 2022-11-22 at 01 10 01@2x" src="https://user-images.githubusercontent.com/318295/203248304-34a30601-b811-4f8c-9744-6690d9073794.png">
+  </a>
 </p>
 
 # Prizes
