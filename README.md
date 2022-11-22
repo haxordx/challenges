@@ -89,7 +89,7 @@ Haxor started when I wondered "how can we reward developers for participating in
 
 For 3 years Haxors has privately been helping open-source projects and companies like AWS, Snap, and Mailchiump get feedback from developers who try their tools. Now we're excited to bring Haxor to the larger open-source community with the help of our scren recording tool, Replayable.
 
-# Adding your Tool
+# Adding your own challenge
 
 Want to participate in Haxor? 
 
