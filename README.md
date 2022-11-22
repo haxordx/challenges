@@ -1,10 +1,10 @@
-# Haxor DX Bug Bounty
+# Haxor DX Bounty
 
 > Haxor is a community of developers that helps devtools maintainers improve their developer experience (DX).
 
 ## Welcome
 
-Hello and welcome to the Haxor DX Bug Bounty! 
+Hello and welcome to the Haxor DX Bounty! 
 
 As a member of Haxor, you get to learn about new tools, help influence their future, and **earn swag and prizes**! Every bug we find helps the next developer save time.
 
