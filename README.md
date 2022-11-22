@@ -1,4 +1,4 @@
-<img width="1262" alt="CleanShot 2022-11-22 at 01 00 29@2x" src="https://user-images.githubusercontent.com/318295/203246618-b2d303bf-9b1c-4b31-bbda-8fbe29085775.png">
+<img width="1468" alt="CleanShot 2022-11-22 at 01 00 56@2x" src="https://user-images.githubusercontent.com/318295/203246731-67de825c-df6d-44cc-a296-f76b04aa5b12.png">
 
 ![Haxor DX Bounty Logo](https://user-images.githubusercontent.com/318295/203244248-56430fc0-a709-4f58-93b4-5f8062a623af.png)
 
