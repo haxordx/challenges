@@ -16,6 +16,18 @@ Here you level up and earn prizes by learning new APIs, SDKs, and developer tool
 
 Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Every challenge takes between 15 minutes to 2 hours and you complete them on your own machine, with your own IDE! So come learn new skills, help other developers, and earn some prizes along the way!
 
+# Sponsors
+
+<p float="left">
+
+<img height="30" src="https://user-images.githubusercontent.com/318295/203247573-b4f2e617-bb6c-49fd-b6e1-68141d3828ba.png">
+&nbsp;&nbsp;
+<img height="30" src="https://user-images.githubusercontent.com/318295/203247474-984f7cf2-ca49-48fe-a074-e7dc786bb24c.png">
+&nbsp;&nbsp;
+<img height="30" alt="CleanShot 2022-11-22 at 01 05 24@2x" src="https://user-images.githubusercontent.com/318295/203247455-7697a03d-bc14-4752-87c4-b31302a14bb1.png">
+
+</p>
+
 # Prizes
 
 <img width="1433" alt="CleanShot 2022-11-22 at 00 52 02@2x" src="https://user-images.githubusercontent.com/318295/203244995-2b96c4db-5895-496b-875a-16a252b2d806.png">
