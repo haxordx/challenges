@@ -23,12 +23,21 @@ Everyone is welcome to participate in our challenges. Giving feedback is as easy
 
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
 
+# Prizes
+
+- Haxor Mug - 6 points
+- Haxor Tee-Shirt - 9 points
+- Gift Card - 30 points
+- Nintendo Switch - 100 points
+
 # Earning Prizes
 
 Everyone is welcome to participate in Haxor Challenges at any level.
 
-- Haxor Mug - 6 points
-- Haxor Tee-Shirt - 9 points
+In order to earn points, your issue must meet our minimum quality standards (MQS). Our quality standards exist to ensure that maintainers get a valuable amount of context and our system isn't being gamed.
+
+- Regular Feedback is worth 1 point.
+- Feedback with a Replayable replay attached is worth 2 points.
 
 # Getting Started
 
@@ -37,15 +46,11 @@ Everyone is welcome to participate in Haxor Challenges at any level.
 
 ## How to provide feedback
 
-Everyone is welcome to participate in a Haxor challenge at whatever level they want. However, in order to qualify for prizes you'll need to provide at least 3 peices quality feedback.
-
-## 
-
-- Include a Replayable replay. 
-
 Currently the only languages we support are Javascript and Java.
 
 # Rules
+
+## Minimum Quality Standards
 
 # Challenges
 
@@ -57,9 +62,11 @@ Currently the only languages we support are Javascript and Java.
 
 (get examples from coda.io)
 
-# About Haxor
+# About
 
-For 3 years Haxors has been helping devtools companies and open source projects get feedback from developers who try their tools.  See exactly how developers work with your APIs, SDKs, and developer products. Use what you learn to improve your developer experience.
+Haxor started when I wondered "how can we reward developers for participating in open source?" Then I realized that developer experience in itself was valuable to the maintainers of dev tools, but there wasn't a great way for developers to share their experience. So I started Haxor, an developer testing agency while building Replayable, a tool that makes sharing context instant.
+
+For 3 years Haxors has privately been helping open-source projects and companies like AWS, Snap, and Mailchiump get feedback from developers who try their tools. Now we're excited to bring Haxor to the larger open-source community with the help of our scren recording tool, Replayable.
 
 # Adding your Tool
 
