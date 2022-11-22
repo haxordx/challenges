@@ -34,7 +34,9 @@ Your experience will help maintainers improve their tools and remove friction fo
 
 Everyone is welcome to participate in Haxor Challenges at any level. 
 
-In order to earn prizes, your issues must include a Replayable replay. Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to open tickets without ruining your flow and ensure maintainers get a valuable amount of context. Check out the Chrome Extension for GitHub and the CLI.
+In order to earn prizes, your issues must include a Replayable replay. 
+
+Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to open tickets without ruining your flow and ensure maintainers get a valuable amount of context. Check out the Chrome Extension for GitHub and the CLI.
 
 Replayable is made by Haxor! If you want to learn more, join the Replayable discord. 
 
