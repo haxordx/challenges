@@ -16,6 +16,15 @@ Here you level up and earn prizes by learning new APIs, SDKs, and developer tool
 
 Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Every challenge takes between 15 minutes to 2 hours and you complete them on your own machine, with your own IDE! So come learn new skills, help other developers, and earn some prizes along the way!
 
+# Prizes
+
+<img width="1433" alt="CleanShot 2022-11-22 at 00 52 02@2x" src="https://user-images.githubusercontent.com/318295/203244995-2b96c4db-5895-496b-875a-16a252b2d806.png">
+
+- Haxor Mug - 3 issues
+- Haxor Tee-Shirt - 9 issues
+- Gift Card - 30 issues
+- Steam Deck - 100 issues
+
 # How It Works
 
 Everyone is welcome to participate in our challenges. Giving feedback is as easy as opening a GitHub issue. You can file feedback for anything that you feel is "friction" to completing your task. 
@@ -26,15 +35,6 @@ Everyone is welcome to participate in our challenges. Giving feedback is as easy
 - Website UI that doesn't work
 
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
-
-# Prizes
-
-<img width="1433" alt="CleanShot 2022-11-22 at 00 52 02@2x" src="https://user-images.githubusercontent.com/318295/203244995-2b96c4db-5895-496b-875a-16a252b2d806.png">
-
-- Haxor Mug - 3 issues
-- Haxor Tee-Shirt - 9 issues
-- Gift Card - 30 issues
-- Steam Deck - 100 issues
 
 # Earning Prizes
 
