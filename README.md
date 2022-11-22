@@ -1,6 +1,6 @@
 # Haxor DX Bounty
 
-> Haxor is a community of developers that helps devtools maintainers improve their developer experience (DX).
+> Haxor is a community effort to help devtools maintainers improve their developer experience (DX).
 
 ## Welcome
 
