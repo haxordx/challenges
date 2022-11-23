@@ -81,9 +81,6 @@ The following shell script will open a GitHub issue with a clip of the last 30 s
 gh issue create -w -t "My Feedback" -b "`replayable --md`"
 ```
 
-- 10 Points for feedback
-- Max 30 points awarded for feedback per challenge
-
 ### Completing the Challenge (5 points + Hall of Fame)
 
 While Haxor is all about giving feedback, we still want to award those to complete the challenge successfully!
@@ -102,9 +99,6 @@ echo 'Your Username' &>>README.md
 git commit -am "Add my name to the leaderboard"
 gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
 ```
-
-- 20 points for completion
-- Max 20 points awarded per challenge
 
 ## Review
 
