@@ -49,6 +49,8 @@ You can earn up to 50 points per challenge!
 
 Everyone is welcome to participate in our challenges. There are two ways to earn points in a Haxor Challenge.
 
+## How we score
+
 We use Replayable to validate your submissions. 
 
 > Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to open tickets and pulls without ruining your flow. Check out the Chrome Extension for GitHub and the CLI.
@@ -61,9 +63,9 @@ In order to earn points for your submission, it must contain a Replayable replay
 
 Replayable is made by Haxor! If you want to learn more, join the Replayable discord. 
 
-## Feedback and Bugs (10 Points)
+## Feedback (10 points, max 30 per challenge)
 
-Giving feedback is as easy as opening a GitHub issue against the Haxor challenge repo. You can file feedback for anything that you feel is "friction" to completing your task:
+Giving feedback to maintainers is the whole point of Haxor. It's as easy as opening a GitHub issue against the Haxor challenge repo. You can file feedback for anything that you feel is "friction" to completing your task:
 
 - Things you expected to work that didn't
 - Confusing or outdated instructions
@@ -81,9 +83,13 @@ gh issue create -w -t "My Feedback" -b "`replayable --md`"
 - 10 Points for feedback
 - Max 30 points awarded for feedback per challenge
 
-## Completing the Challenge (20 Points)
+## Completing the Challenge (5 points + Hall of Fame)
 
-Every challenge will include some exit criteria that marks it as "complete." In order to get your github profile on the scoreboard and earn points for completing the challenge, you must:
+While Haxor is all about giving feedback, we still want to award those to complete the challenge successfully!
+
+Every challenge will include some exit criteria that marks it as "complete." Once you successfully complete the challenge, you'll get added to the "Hall of Fame" via https://contrib.rocks/. 
+
+In order to get your github profile on the scoreboard and earn points for completing the challenge, you must:
 
 1. Open a pull request that adds your name to the leaderboard
 2. Attach a replay of you **demonstrating the exit criteria** to the PR
