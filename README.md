@@ -51,7 +51,7 @@ You'll get 10 points for submitting feedback and 5 bonus points for completing t
 
 # How it works
 
-Everything takes place right here in GitHub. You can see a list of challenges below. Each challenge will include it's own time estimate and goal. 
+Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal. 
 
 Try to complete the challenge objective. As you complete the challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
 
