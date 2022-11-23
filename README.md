@@ -53,11 +53,7 @@ Everything takes place right here in GitHub. You can see a list of challenges be
 
 Try to complete the challenge objective. As you complete the challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
 
-## Earning points
-
-Everyone is welcome to participate in our challenges. There are two ways to earn points in a Haxor Challenge.
-
-## How we score
+## Earning Points
 
 In order to earn points for an issue or pull, you'll need to attach a screen recording. Screen recordings serve two purposes, they help maintainers understand the context of your feedback and they help our moderators validate you submissions.
 
@@ -110,15 +106,21 @@ gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
 - 20 points for completion
 - Max 20 points awarded per challenge
 
-# Moderation
+## Review
 
-Haxor moderators get pinged on new submissions to the repositories and will reply to confirm your points. You can check the status of your submissions in this Airtable.
+Haxor moderators get pinged on new submissions to the repositories and will comment on the issue or pull request to confirm your points. 
 
-# How It Works
+# Leaderboard
 
-# Earning Prizes
+The leaderboard contains a centralized record of GitHub users who have contributed to Haxor. You'll appear on the leaderboard after your first contribution and you can see who's contributed the most over time!
 
-Everyone is welcome to participate in Haxor Challenges at any level. 
+New challenges will continue to be added, so keep an eye on your rank!
+
+## Turning Points into Prizes
+
+Once you've earned enough points for a prize, you can cash out by simply emailing the Haxor staff with the prize you want, size (if appropriate), and your address. 
+
+Points will be deducted from your total (you can see this on in our leaderboard) and you'll get shipping notifications in your inbox.
 
 # Getting Started
 
@@ -128,8 +130,6 @@ Everyone is welcome to participate in Haxor Challenges at any level.
 - Do the stuff in "completing a challenge"
 
 # Rules
-
-## Minimum Quality Standards
 
 # Challenges
 
@@ -147,20 +147,6 @@ Everyone is welcome to participate in Haxor Challenges at any level.
 
 Currently the only languages we support are Javascript and Java.
 
-## What happens after I file an issue? How do I get a prize?
-
-After you file an issue, someone from Haxor will respond, approve your feedback, and tell you how close you are to the next prize!
-
-## What happens when I complete a challenge?
-
-You can add yourself to the "Completed By" section. The profiles there are awarded from first to last! There might be special awards for finishing first.
-
-Each challenge might have different criteria for complete.
-
-- Fork the challenge repository.
-- Add your profile image to the "finishers."
-- Create a pull request with a replay of you reaching the goal.
-
 # About
 
 Haxor started when I wondered "how can we reward developers for participating in open source?" Then I realized that developer experience in itself was valuable to the maintainers of dev tools, but there wasn't a great way for developers to share their experience. So I started Haxor, an developer experience agency while building Replayable, a tool that makes sharing context instant.
@@ -177,5 +163,3 @@ Want to participate in Haxor?
 - Make a pull request to the list above linking to your tool
 - Developers will be notified of your new challenge!
 - Survey
-
-# Participants
