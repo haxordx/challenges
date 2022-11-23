@@ -16,11 +16,13 @@ Here you level up and earn prizes by learning new APIs, SDKs, and developer tool
 
 Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Every challenge takes between 15 minutes to 2 hours and you complete them on your own machine, with your own IDE! So come learn new skills, help other developers, and earn some prizes along the way!
 
+<a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
+
 ## Sponsors
 
 <p float="left">
 <a href="https://replayable.io">
-<img height="30" src="https://user-images.githubusercontent.com/318295/203247573-b4f2e617-bb6c-49fd-b6e1-68141d3828ba.png">
+<img height="60" src="https://user-images.githubusercontent.com/318295/203247573-b4f2e617-bb6c-49fd-b6e1-68141d3828ba.png">
 </a>
 &nbsp;&nbsp;
 <a href="https://pubnub.com">
@@ -36,14 +38,32 @@ Our feedback sessions are called challenges. Every challenge asks you to build a
 
 <img width="1433" alt="CleanShot 2022-11-22 at 00 52 02@2x" src="https://user-images.githubusercontent.com/318295/203244995-2b96c4db-5895-496b-875a-16a252b2d806.png">
 
-- Haxor Mug - 3 issues
-- Haxor Tee-Shirt - 9 issues
-- Gift Card - 30 issues
-- Steam Deck - 100 issues
+- Haxor Mug - 30 Points
+- Haxor Tee-Shirt - 90 Points
+- Gift Card - 300 Points
+- Steam Deck - 1,000 Points
 
-# How It Works
+You can earn up to 50 points per challenge!
 
-Everyone is welcome to participate in our challenges. Giving feedback is as easy as opening a GitHub issue. You can file feedback for anything that you feel is "friction" to completing your task. 
+# How to Earn Points
+
+Everyone is welcome to participate in our challenges. There are two ways to earn points in a Haxor Challenge.
+
+We use Replayable to validate your submissions. 
+
+> Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to open tickets and pulls without ruining your flow. Check out the Chrome Extension for GitHub and the CLI.
+
+In order to earn points for your submission, it must contain a Replayable replay. Replayable:
+
+- Makes it super easy to add context to your bugs, feedback, and pull requests
+- Shows maintainers what it would take to reproduce your problem
+- Helps us validate submissions and prevent cheating
+
+Replayable is made by Haxor! If you want to learn more, join the Replayable discord. 
+
+## Feedback and Bugs (10 Points)
+
+Giving feedback is as easy as opening a GitHub issue against the Haxor challenge repo. You can file feedback for anything that you feel is "friction" to completing your task:
 
 - Things you expected to work that didn't
 - Confusing or outdated instructions
@@ -52,15 +72,42 @@ Everyone is welcome to participate in our challenges. Giving feedback is as easy
 
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
 
+### Using the Replayable CLI
+
+```sh
+gh issue create -w -t "My Feedback" -b "`replayable --md`"
+```
+
+- 10 Points for feedback
+- Max 30 points awarded for feedback per challenge
+
+## Completing the Challenge (20 Points)
+
+Every challenge will include some exit criteria that marks it as "complete." In order to get your github profile on the scoreboard and earn points for completing the challenge, you must:
+
+1. Open a pull request that adds your name to the leaderboard
+2. Attach a replay of you **demonstrating the exit criteria** to the PR
+
+### Using the Replayable CLI
+
+```sh
+echo 'Your Username' &>>README.md
+git commit -am "Add my name to the leaderboard"
+gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
+```
+
+- 20 points for completion
+- Max 20 points awarded per challenge
+
+# Moderation
+
+Haxor moderators get pinged on new submissions to the repositories and will reply to confirm your points. You can check the status of your submissions in this Airtable.
+
+# How It Works
+
 # Earning Prizes
 
 Everyone is welcome to participate in Haxor Challenges at any level. 
-
-In order to earn prizes, your issues must include a Replayable replay. 
-
-Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to open tickets without ruining your flow and ensure maintainers get a valuable amount of context. Check out the Chrome Extension for GitHub and the CLI.
-
-Replayable is made by Haxor! If you want to learn more, join the Replayable discord. 
 
 **Keep an eye out for new challenges!** The first 3 people to finish any challenge get a Haxor tee-shirt!
 
