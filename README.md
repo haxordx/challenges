@@ -40,12 +40,14 @@ So come learn new skills, help other developers, and earn some prizes along the 
 
 <img width="1433" alt="CleanShot 2022-11-22 at 00 52 02@2x" src="https://user-images.githubusercontent.com/318295/203244995-2b96c4db-5895-496b-875a-16a252b2d806.png">
 
+You'll get 10 points for submitting feedback and 5 bonus points for completing the challenge. You can earn up to 35 points per challenge. Redeem points for items the Haxor shop and other special prizes!
+
 - Haxor Mug - 30 Points
-- Haxor Tee-Shirt - 90 Points
+- Haxor Logo Tee-Shirt - 90 Points
+- Haxor Graphic Tee-Shirt - 120 Points
 - Gift Card - 300 Points
 - Steam Deck - 1,000 Points
 
-You can earn up to 50 points per challenge!
 
 # How it works
 
