@@ -22,7 +22,7 @@ Our feedback sessions are called challenges. Every challenge asks you to build a
 
 <p float="left">
 <a href="https://replayable.io">
-<img height="60" src="https://user-images.githubusercontent.com/318295/203247573-b4f2e617-bb6c-49fd-b6e1-68141d3828ba.png">
+<img height="30" src="https://user-images.githubusercontent.com/318295/203247573-b4f2e617-bb6c-49fd-b6e1-68141d3828ba.png">
 </a>
 &nbsp;&nbsp;
 <a href="https://pubnub.com">
