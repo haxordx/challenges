@@ -162,7 +162,7 @@ Each challenge might have different criteria for complete.
 
 Haxor started when I wondered "how can we reward developers for participating in open source?" Then I realized that developer experience in itself was valuable to the maintainers of dev tools, but there wasn't a great way for developers to share their experience. So I started Haxor, an developer experience agency while building Replayable, a tool that makes sharing context instant.
 
-For 3 years Haxors has privately been helping open-source projects and companies like AWS, Snap, and Mailchiump get feedback from developers who try their tools. Now we're excited to bring Haxor to the larger open-source community with the help of our scren recording tool, Replayable.
+For 3 years Haxors has privately been helping open-source projects and companies like AWS, Snap, and Mailchimp get feedback from developers who try their tools. Now we're excited to bring Haxor to the larger open-source community with the help of our scren recording tool, Replayable.
 
 # Adding your own challenge
 
