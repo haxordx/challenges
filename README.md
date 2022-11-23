@@ -51,17 +51,13 @@ Everyone is welcome to participate in our challenges. There are two ways to earn
 
 ## How we score
 
-We use Replayable to validate your submissions. 
+We use screen recorings to validate your submissions. You can use any tool to upload clips. 
 
-> Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to open tickets and pulls without ruining your flow. Check out the Chrome Extension for GitHub and the CLI.
+We recommend Replayable, our own screen recorder we built to be the fastest and most seamless way for developers to share their screen.
 
-In order to earn points for your submission, it must contain a Replayable replay. Replayable:
+> Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to add context without ruining your flow. Check out the Chrome Extension for GitHub and the CLI.
 
-- Makes it super easy to add context to your bugs, feedback, and pull requests
-- Shows maintainers what it would take to reproduce your problem
-- Helps us validate submissions and prevent cheating
-
-Replayable is made by Haxor! If you want to learn more, join the Replayable discord. 
+In order to earn points for your submission, it must contain a Replayable replay or screencast.
 
 ## Feedback (10 points, 30 points max per challenge)
 
