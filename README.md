@@ -63,7 +63,7 @@ In order to earn points for your submission, it must contain a Replayable replay
 
 Replayable is made by Haxor! If you want to learn more, join the Replayable discord. 
 
-## Feedback (10 points, max 30 per challenge)
+## Feedback (10 points, 30 points max per challenge)
 
 Giving feedback to maintainers is the whole point of Haxor. It's as easy as opening a GitHub issue against the Haxor challenge repo. You can file feedback for anything that you feel is "friction" to completing your task:
 
