@@ -10,7 +10,7 @@
 
 Hello and welcome to the Haxor DX Bounty! 
 
-As a member of Haxor, you get to learn about new tools, help influence their future, and **earn swag and prizes**! Every bug we find helps the next developer save time.
+As a member of Haxor, you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! 
 
 Here you level up and earn prizes by learning new APIs, SDKs, and developer tools. The feedback you provide helps maintainers improve their products, documentation, and resources.
 
