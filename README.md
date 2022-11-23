@@ -12,9 +12,11 @@ Hello and welcome to the Haxor DX Bounty!
 
 As a member of Haxor, you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! 
 
-Here you level up and earn prizes by learning new APIs, SDKs, and developer tools. The feedback you provide helps maintainers improve their products, documentation, and resources.
+Level up and earn prizes by learning new APIs, SDKs, and developer tools. The feedback you provide helps maintainers improve their products, documentation, and resources.
 
-Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Every challenge takes between 15 minutes to 2 hours and you complete them on your own machine, with your own IDE! So come learn new skills, help other developers, and earn some prizes along the way!
+Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine. 
+
+So come learn new skills, help other developers, and earn some prizes along the way!
 
 <a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
 
@@ -45,24 +47,29 @@ Our feedback sessions are called challenges. Every challenge asks you to build a
 
 You can earn up to 50 points per challenge!
 
-# How to Earn Points
+# How it works
+
+Everything takes place right here in GitHub. You can see a list of challenges below. Each challenge will include it's own time estimate and goal. 
+
+Try to complete the challenge objective. As you complete the challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
+
+## Earning points
 
 Everyone is welcome to participate in our challenges. There are two ways to earn points in a Haxor Challenge.
 
 ## How we score
 
-We use screen recorings to validate your submissions. You can use any tool to record and share clips. 
+In order to earn points for an issue or pull, you'll need to attach a screen recording. Screen recordings serve two purposes, they help maintainers understand the context of your feedback and they help our moderators validate you submissions.
 
-We recommend Replayable, our own screen recorder we built to be the fastest and most seamless way to share what happened on your screen.
+You can use any tool to record and share clips. We recommend Replayable, our own screen recorder we built to be the fastest and most seamless way to share what happened on your screen. 
 
-> Replayable isn't a normal screen recorder, it's a desktop replay buffer that ensures you never miss a bug. Replayable makes it simple to add context without ruining your flow. Check out the Chrome Extension for GitHub and the CLI.
+> Replayable makes it simple to add context to bugs and pull requests without ruining your flow. Instead of spending time trying to reproduce a bug in a new screencast, Replayable lets you add footage from when you encountered it the first time. It works full pull requests and demos too! Check out our CLI and Chrome Extension for GitHub and Jira.
 
-In order to earn points for your submission, it must contain a Replayable replay or screencast.
+In order to earn points for your submission, it must contain a 30-second or longer screencast demoing the bug, feedback, or feature.
 
-## Feedback (10 points, 30 points max per challenge)
+### Feedback (10 points, 30 points max per challenge)
 
-Giving feedback to maintainers is the whole point of Haxor. It's as easy as opening a GitHub issue against the Haxor challenge repo. You can file feedback for anything that you feel is "friction" to completing your task:
-
+Giving feedback to maintainers is the whole point of Haxor. It's as easy as opening a GitHub issue against the Haxor challenge repo. You can file feedback for anything that you feel is "friction" to completing your task 
 - Things you expected to work that didn't
 - Confusing or outdated instructions
 - Spelling and syntax errors in documentation and code samples
@@ -70,7 +77,7 @@ Giving feedback to maintainers is the whole point of Haxor. It's as easy as open
 
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
 
-### Using the Replayable CLI
+#### Using the Replayable CLI
 
 The following shell script will open a GitHub issue with a clip of the last 30 seconds of your screen.
 
@@ -81,7 +88,7 @@ gh issue create -w -t "My Feedback" -b "`replayable --md`"
 - 10 Points for feedback
 - Max 30 points awarded for feedback per challenge
 
-## Completing the Challenge (5 points + Hall of Fame)
+### Completing the Challenge (5 points + Hall of Fame)
 
 While Haxor is all about giving feedback, we still want to award those to complete the challenge successfully!
 
@@ -92,7 +99,7 @@ In order to get your github profile on the scoreboard and earn points for comple
 1. Open a pull request that adds your name to the leaderboard
 2. Attach a replay of you **demonstrating the exit criteria** to the PR
 
-### Using the Replayable CLI
+#### Using the Replayable CLI
 
 ```sh
 echo 'Your Username' &>>README.md
@@ -112,8 +119,6 @@ Haxor moderators get pinged on new submissions to the repositories and will repl
 # Earning Prizes
 
 Everyone is welcome to participate in Haxor Challenges at any level. 
-
-**Keep an eye out for new challenges!** The first 3 people to finish any challenge get a Haxor tee-shirt!
 
 # Getting Started
 
