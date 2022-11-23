@@ -51,11 +51,11 @@ Everyone is welcome to participate in our challenges. There are two ways to earn
 
 ## How we score
 
-We use screen recorings to validate your submissions. You can use any tool to upload clips. 
+We use screen recorings to validate your submissions. You can use any tool to record and share clips. 
 
-We recommend Replayable, our own screen recorder we built to be the fastest and most seamless way for developers to share their screen.
+We recommend Replayable, our own screen recorder we built to be the fastest and most seamless way to share what happened on your screen.
 
-> Replayable is a desktop replay buffer that makes it easy to share desktop clips in issues, pulls, and tickets. Replayable makes it super easy to add context without ruining your flow. Check out the Chrome Extension for GitHub and the CLI.
+> Replayable isn't a normal screen recorder, it's a desktop replay buffer that ensures you never miss a bug. Replayable makes it simple to add context without ruining your flow. Check out the Chrome Extension for GitHub and the CLI.
 
 In order to earn points for your submission, it must contain a Replayable replay or screencast.
 
@@ -71,6 +71,8 @@ Giving feedback to maintainers is the whole point of Haxor. It's as easy as open
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
 
 ### Using the Replayable CLI
+
+The following shell script will open a GitHub issue with a clip of the last 30 seconds of your screen.
 
 ```sh
 gh issue create -w -t "My Feedback" -b "`replayable --md`"
