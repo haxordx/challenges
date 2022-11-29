@@ -20,6 +20,8 @@ So come learn new skills, help other developers, and earn some prizes along the 
 
 <a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
 
+Type `!signup [your github username]` in the `#bot` channel to get notifications in our Discord. 
+
 ## Sponsors
 
 <p float="left">
