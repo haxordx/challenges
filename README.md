@@ -4,7 +4,7 @@
 
 # Haxor DX Bounty
 
-> Haxor is a community effort to help devtools maintainers remove friction from their developer experience (DX).
+Haxor is a community effort to help devtools maintainers remove friction from their developer experience (DX).
 
 ## Sponsors <a id="sponsors"></a>
 
@@ -55,6 +55,10 @@ Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` r
 Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine.
 
 ## Javascript
+
+- Recognize text in an image with Tesseract.js
+- Create a realtime chat application with PubNub
+- Send and receive SMS messages with Twilio
 
 ## Java
 
