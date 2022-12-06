@@ -195,6 +195,8 @@ There aren't enough challenges to earn this many points yet, but these are the k
 
 # Earning Points <a id="points"></a>
 
+![image](https://user-images.githubusercontent.com/318295/206042633-f26ca545-779b-474a-b1e5-dbb1ac0d86bd.png)
+
 Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
 
 Try to complete the challenge objective. As you complete the challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
