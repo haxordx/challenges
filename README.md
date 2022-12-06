@@ -6,23 +6,11 @@
 
 > Haxor is a community effort to help devtools maintainers improve their developer experience (DX).
 
-## Welcome
+## Welcome <a id="welcome"></a>
 
-Hello and welcome to the Haxor DX Bounty! 
+Hello and welcome to the Haxor DX Bounty! Here you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
 
-As a member of Haxor, you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! 
-
-Level up and earn prizes by learning new APIs, SDKs, and developer tools. The feedback you provide helps maintainers improve their products, documentation, and resources.
-
-Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine. 
-
-So come learn new skills, help other developers, and earn some prizes along the way!
-
-<a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
-
-Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` role and personalized notificiations in our Discord. 
-
-## Sponsors
+## Sponsors <a id="sponsors"></a>
 
 <p float="left">
 <a href="https://replayable.io">
@@ -38,11 +26,151 @@ Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` r
   </a>
 </p>
 
-# Prizes
+## Getting Started <a id="toc"></a>
 
-<img width="1433" alt="CleanShot 2022-11-22 at 00 52 02@2x" src="https://user-images.githubusercontent.com/318295/203244995-2b96c4db-5895-496b-875a-16a252b2d806.png">
+- [Challenges](#challenges)
+- [Earning Points](#points)
+  - [Giving Feedback (10 points)](#points-feedback)
+  - [Completing a Challenge (5 points)](#points-complete)
+- [Prizes](#prizes)
+- [Discord](#community)
 
-You'll get 10 points for submitting feedback and 5 bonus points for completing the challenge. You can earn up to 35 points per challenge. Redeem points for items the Haxor shop and other special prizes!
+## Challenges <a id="challenges"></a>
+
+Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine.
+
+## Javascript
+
+## Java
+
+# Prizes <a id="prizes"></a>
+
+## Haxor Swag
+
+Represent your 1337 skills with Haxor branded merch.
+
+<table>
+  <tr>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/haxor/products/laptop-sticker">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/kiss-cut-stickers-4x4-default-638fac818ba26_720x.png?v=1670360196" width="200" />
+      </a>
+      <h3>Cult Laptop Sticker</h3>
+      <h6>15 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/haxor/products/caffeine_input_device-v0-00">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-49361b41_720x.png?v=1554331544" width="200"/>
+      </a>
+      <h3>caffeine_input_device</h3>
+      <h6>35 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/haxor/products/blackhat">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-00948d62_720x.png?v=1553234911" width="200"/>
+      </a>
+      <h3>BlackHat</h3>
+      <h6>60 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/haxor/products/mandatory-hoodie">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/unisex-fleece-zip-up-hoodie-black-front-638fae43cd95f_720x.png?v=1670360653" width="200"/>
+      </a>
+      <h3>Mandatory Hoodie</h3>
+      <h6>100 Points</h6>
+    </td>
+  </tr>
+</table>
+
+## Haxor Shirts
+
+Hundreds of shirts that were programatically generated! Every design has multiple varients. Each shirt features the Haxor logo on the sleeve.
+
+<table>
+  <tr>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/freeke">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-1f99865a_720x.png?v=1554328508" width="100" />
+      </a>
+      <h4>Freeke Shirt</h4>
+      <h5>15 Variations</h5>
+      <h6>50 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/refactory">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-5d81cbb7_720x.png?v=1554333175" width="100" />
+      </a>
+      <h4>Refactory Shirt</h4>
+      <h5>13 Variations</h5>
+      <h6>50 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/hyperblock">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-a9ba38d1_720x.png?v=1554330417" width="100" />
+      </a>
+      <h4>HyperBlock Shirt</h4>
+      <h5>20 Variations</h5>
+      <h6>50 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/noisestorm">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-a47a56d8_720x.png?v=1554335946" width="100" />
+      </a>
+      <h4>NoiseStorm Shirt</h4>
+      <h5>20 Variations</h5>
+      <h6>50 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/dancingflame">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-15458b88_720x.png?v=1554283190" width="100" />
+      </a>
+      <h4>Dancing Flame</h4>
+      <h5>25 Variations</h5>
+      <h6>50 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/entanglement">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-bbdb1e3c_720x.png?v=1554327826" width="100" />
+      </a>
+      <h4>Entanglement Shirt</h4>
+      <h5>30 Variations</h5>
+      <h6>50 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/skrill">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-75b493df_720x.png?v=1554312743" width="100" />
+      </a>
+      <h4>Skrill Shirt</h4>
+      <h5>60 Variations</h5>
+      <h6>50 Points</h6>
+    </td>
+  </tr>
+</table>
+
+## Grand Prizes
+
+Represent your 1337 skills with Haxor branded merch.
+
+<table>
+  <tr>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/haxor/products/laptop-sticker">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/kiss-cut-stickers-4x4-default-638fac818ba26_720x.png?v=1670360196" width="200" />
+      </a>
+      <h3>Cult Laptop Sticker</h3>
+      <h6>15 Points</h6>
+    </td>
+    <td> 
+      <a href="https://shop.haxor.sh/collections/haxor/products/caffeine_input_device-v0-00">
+      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-49361b41_720x.png?v=1554331544" width="200"/>
+      </a>
+      <h3>caffeine_input_device</h3>
+      <h6>35 Points</h6>
+    </td>
+  </tr>
+</table>
+
+**You can earn up to 35 points per challenge.** You'll get 10 points for submitting feedback and 5 bonus points for completing the challenge. Redeem points for items the Haxor shop and other special prizes!
 
 - Haxor Mug - 30 Points
 - Haxor Logo Tee-Shirt - 90 Points
@@ -50,26 +178,30 @@ You'll get 10 points for submitting feedback and 5 bonus points for completing t
 - Gift Card - 300 Points
 - Steam Deck - 1,000 Points
 
+## Community <a id="community"></a>
 
-# How it works
+<a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
 
-Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal. 
+Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` role and personalized notificiations in our Discord.
+
+# Earning Points <a id="points"></a>
+
+Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
 
 Try to complete the challenge objective. As you complete the challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
 
-## Earning Points
-
-In order to earn points for an issue or pull, you'll need to attach a screen recording. Screen recordings serve two purposes, they help maintainers understand the context of your feedback and they help our moderators validate you submissions.
-
-You can use any tool to record and share clips. We recommend Replayable, our own screen recorder we built to be the fastest and most seamless way to share what happened on your screen. 
+In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using Replayable. Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
 
 > Replayable makes it simple to add context to bugs and pull requests without ruining your flow. Instead of spending time trying to reproduce a bug in a new screencast, Replayable lets you add footage from when you encountered it the first time. It works full pull requests and demos too! Check out our CLI and Chrome Extension for GitHub and Jira.
 
 In order to earn points for your submission, it must contain a 30-second or longer screencast demoing the bug, feedback, or feature.
 
-### Feedback (10 points, 30 points max per challenge)
+### Feedback (10 Points)<a id="points-feedback"></a>
 
-Giving feedback to maintainers is the whole point of Haxor. It's as easy as opening a GitHub issue against the Haxor challenge repo. You can file feedback for anything that you feel is "friction" to completing your task 
+> 10 points per GitHub Issue, 30 points max per challenge
+
+Giving feedback to maintainers is the whole point of Haxor. It's as easy as opening a GitHub issue against the Haxor challenge repo. You can file feedback for anything that you feel is "friction" to completing your task
+
 - Things you expected to work that didn't
 - Confusing or outdated instructions
 - Spelling and syntax errors in documentation and code samples
@@ -85,11 +217,13 @@ The following shell script will open a GitHub issue with a clip of the last 30 s
 gh issue create -w -t "My Feedback" -b "`replayable --md`"
 ```
 
-### Completing the Challenge (5 points + Hall of Fame)
+### Completing the Challenge (5 Points) <a id="points-complete"></a>
+
+> 5 Points and Hall of Fame!
 
 While Haxor is all about giving feedback, we still want to award those to complete the challenge successfully!
 
-Every challenge will include some exit criteria that marks it as "complete." Once you successfully complete the challenge, you'll get added to the "Hall of Fame" via https://contrib.rocks/. 
+Every challenge will include some exit criteria that marks it as "complete." Once you successfully complete the challenge, you'll get added to the "Hall of Fame" via https://contrib.rocks/.
 
 In order to get your github profile on the scoreboard and earn points for completing the challenge, you must:
 
@@ -104,60 +238,46 @@ git commit -am "Add my name to the leaderboard"
 gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
 ```
 
-## Review
+## Get Prizes <a id="cash-out"></a>
 
-Haxor moderators get pinged on new submissions to the repositories and will comment on the issue or pull request to confirm your points. 
+Haxor moderators get pinged on new submissions to the repositories and will comment on the issue or pull request to confirm your points.
 
-# Leaderboard
-
-The leaderboard contains a centralized record of GitHub users who have contributed to Haxor. You'll appear on the leaderboard after your first contribution and you can see who's contributed the most over time!
-
-New challenges will continue to be added, so keep an eye on your rank!
-
-## Turning Points into Prizes
-
-Once you've earned enough points for a prize, you can cash out by simply emailing the Haxor staff with the prize you want, size (if appropriate), and your address. 
+Once you've earned enough points for a prize, you can cash out by simply emailing the Haxor staff with the prize you want, size (if appropriate), and your address.
 
 Points will be deducted from your total (you can see this on in our leaderboard) and you'll get shipping notifications in your inbox.
 
-# Getting Started
+# FAQ
 
-- Install Replayable, you'll need it to report feedback
-- Navigate to the test repository and follow the instructions there
-- Start a timer for how long the site says
-- Do the stuff in "completing a challenge"
-
-# Rules
-
-# Challenges
-
-## Javascript
-
-## Java
-
-# What does quality feedback look like?
+## What does quality feedback look like?
 
 (get examples from coda.io)
-
-# FAQ
 
 ## What programming languages?
 
 Currently the only languages we support are Javascript and Java.
 
-# About
+## What's the story behind Haxor?
 
 Haxor started when I wondered "how can we reward developers for participating in open source?" Then I realized that developer experience in itself was valuable to the maintainers of dev tools, but there wasn't a great way for developers to share their experience. So I started Haxor, an developer experience agency while building Replayable, a tool that makes sharing context instant.
 
 For 3 years Haxors has privately been helping open-source projects and companies like AWS, Snap, and Mailchimp get feedback from developers who try their tools. Now we're excited to bring Haxor to the larger open-source community with the help of our scren recording tool, Replayable.
 
-# Adding your own challenge
+## How can I add my own challenge?
 
-Want to participate in Haxor? 
+Looking for feedback on yoru own API, SDK, or developer tool?
 
-- Make a new repo called haxor-challenge-[your tool]
-  - ETA (15 min - 2 hours)
-  - Guided Steps
+- For the [haxor-challenge-template](https://github.com/haxordx/haxor-challenge-template) repo.
+- Make a new repo called `haxor-challenge-${your-tool}`
+  - List an ETA (15 min - 2 hours)
+  - Make guided a developer should follow to complete the challenge
 - Make a pull request to the list above linking to your tool
+  - We will approve or request changes to your challenge
 - Developers will be notified of your new challenge!
-- Survey
+
+### Requirements
+
+Your challenge:
+
+- Must be entirely self-service and publicly available
+- Must not require payment details to complete
+- Must target Javascript or Java developers (for now)
