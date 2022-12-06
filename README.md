@@ -10,6 +10,14 @@
 
 Hello and welcome to the Haxor DX Bounty! Here you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
 
+## How It Works
+
+Try to complete the [challenges](#challenges) below. As you complete a challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
+
+In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using [Replayable](https://replayable.io?betacode=1337HAXOR). Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
+
+![image](https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png)
+
 ## Sponsors <a id="sponsors"></a>
 
 <p float="left">
@@ -195,13 +203,7 @@ There aren't enough challenges to earn this many points yet, but these are the k
 
 # Earning Points <a id="points"></a>
 
-![image](https://user-images.githubusercontent.com/318295/206042633-f26ca545-779b-474a-b1e5-dbb1ac0d86bd.png)
-
 Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
-
-Try to complete the challenge objective. As you complete the challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
-
-In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using Replayable. Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
 
 > Replayable makes it simple to add context to bugs and pull requests without ruining your flow. Instead of spending time trying to reproduce a bug in a new screencast, Replayable lets you add footage from when you encountered it the first time. It works full pull requests and demos too! Check out our CLI and Chrome Extension for GitHub and Jira.
 
