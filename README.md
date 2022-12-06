@@ -4,19 +4,7 @@
 
 # Haxor DX Bounty
 
-> Haxor is a community effort to help devtools maintainers improve their developer experience (DX).
-
-## Welcome <a id="welcome"></a>
-
-Hello and welcome to the Haxor DX Bounty! Here you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
-
-## How It Works
-
-Try to complete the [challenges](#challenges) below. As you complete a challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
-
-In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using [Replayable](https://replayable.io?betacode=1337HAXOR). Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
-
-![image](https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png)
+> Haxor is a community effort to help devtools maintainers remove friction from their developer experience (DX).
 
 ## Sponsors <a id="sponsors"></a>
 
@@ -33,6 +21,18 @@ In order to earn points for an issue or pull, you'll need to attach a desktop re
 <img height="30" alt="CleanShot 2022-11-22 at 01 10 01@2x" src="https://user-images.githubusercontent.com/318295/203248304-34a30601-b811-4f8c-9744-6690d9073794.png">
   </a>
 </p>
+
+## Welcome <a id="welcome"></a>
+
+Hello and welcome to the Haxor DX Bounty! Here you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
+
+## How It Works
+
+Try to complete the [challenges](#challenges) below. As you complete a challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
+
+In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using [Replayable](https://replayable.io?betacode=1337HAXOR). Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
+
+![image](https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png)
 
 ## Getting Started <a id="toc"></a>
 
