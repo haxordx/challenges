@@ -6,6 +6,10 @@
 
 Haxor is a community effort to help devtools maintainers remove friction from their developer experience (DX).
 
+## Welcome <a id="welcome"></a>
+
+Hello and welcome to the Haxor DX Bounty! Here you get to try new dev tools, help make them better, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
+
 ## Sponsors <a id="sponsors"></a>
 
 <p float="left">
@@ -15,10 +19,6 @@ Haxor is a community effort to help devtools maintainers remove friction from th
 &nbsp;&nbsp;
 <a href="https://mlh.io"><img height="30" alt="CleanShot 2022-11-22 at 01 10 01@2x" src="https://user-images.githubusercontent.com/318295/203248304-34a30601-b811-4f8c-9744-6690d9073794.png"></a>
 </p>
-
-## Welcome <a id="welcome"></a>
-
-Hello and welcome to the Haxor DX Bounty! Here you get to try new dev tools, help make them better, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
 
 ## How It Works
 
