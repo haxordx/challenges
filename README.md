@@ -24,7 +24,7 @@
 
 ## Welcome <a id="welcome"></a>
 
-Hello and welcome to the Haxor DX Bounty! Here you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
+Hello and welcome to the Haxor DX Bounty! Here you get to try new dev tools, help make them better, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
 
 ## How It Works
 
