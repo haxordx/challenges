@@ -28,12 +28,19 @@ Hello and welcome to the Haxor DX Bounty! Here you get to try new developer tool
 
 ## Getting Started <a id="toc"></a>
 
+- [Community](#community)
 - [Challenges](#challenges)
 - [Earning Points](#points)
   - [Giving Feedback (10 points)](#points-feedback)
   - [Completing a Challenge (5 points)](#points-complete)
 - [Prizes](#prizes)
 - [Discord](#community)
+
+## Community <a id="community"></a>
+
+<a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
+
+Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` role and personalized notificiations in our Discord.
 
 ## Challenges <a id="challenges"></a>
 
@@ -44,6 +51,8 @@ Our feedback sessions are called challenges. Every challenge asks you to build a
 ## Java
 
 # Prizes <a id="prizes"></a>
+
+**You can earn up to 35 points per challenge.** You'll get 10 points for submitting feedback and 5 bonus points for completing the challenge. Redeem points for items the Haxor shop and other special prizes!
 
 ## Haxor Swag
 
@@ -56,28 +65,28 @@ Represent your 1337 skills with Haxor branded merch.
       <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/kiss-cut-stickers-4x4-default-638fac818ba26_720x.png?v=1670360196" width="200" />
       </a>
       <h3>Cult Laptop Sticker</h3>
-      <h6>15 Points</h6>
+      <h6>35 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/haxor/products/caffeine_input_device-v0-00">
       <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-49361b41_720x.png?v=1554331544" width="200"/>
       </a>
       <h3>caffeine_input_device</h3>
-      <h6>35 Points</h6>
+      <h6>70 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/haxor/products/blackhat">
       <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-00948d62_720x.png?v=1553234911" width="200"/>
       </a>
       <h3>BlackHat</h3>
-      <h6>60 Points</h6>
+      <h6>140 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/haxor/products/mandatory-hoodie">
       <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/unisex-fleece-zip-up-hoodie-black-front-638fae43cd95f_720x.png?v=1670360653" width="200"/>
       </a>
       <h3>Mandatory Hoodie</h3>
-      <h6>100 Points</h6>
+      <h6>250 Points</h6>
     </td>
   </tr>
 </table>
@@ -94,7 +103,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Freeke Shirt</h4>
       <h5>15 Variations</h5>
-      <h6>50 Points</h6>
+      <h6>100 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/refactory">
@@ -102,7 +111,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Refactory Shirt</h4>
       <h5>13 Variations</h5>
-      <h6>50 Points</h6>
+      <h6>100 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/hyperblock">
@@ -110,7 +119,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>HyperBlock Shirt</h4>
       <h5>20 Variations</h5>
-      <h6>50 Points</h6>
+      <h6>100 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/noisestorm">
@@ -118,7 +127,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>NoiseStorm Shirt</h4>
       <h5>20 Variations</h5>
-      <h6>50 Points</h6>
+      <h6>100 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/dancingflame">
@@ -126,7 +135,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Dancing Flame</h4>
       <h5>25 Variations</h5>
-      <h6>50 Points</h6>
+      <h6>100 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/entanglement">
@@ -134,7 +143,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Entanglement Shirt</h4>
       <h5>30 Variations</h5>
-      <h6>50 Points</h6>
+      <h6>100 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/skrill">
@@ -142,47 +151,47 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Skrill Shirt</h4>
       <h5>60 Variations</h5>
-      <h6>50 Points</h6>
+      <h6>100 Points</h6>
     </td>
   </tr>
 </table>
 
-## Grand Prizes
+## Grand Prizes (Coming Soon)
 
-Represent your 1337 skills with Haxor branded merch.
+There aren't enough challenges to earn this many points yet, but these are the kinds of prizes we dream of offering! Help us grow! <a href="#add-challenge">Add your own challenge</a>.
 
 <table>
   <tr>
     <td> 
-      <a href="https://shop.haxor.sh/collections/haxor/products/laptop-sticker">
-      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/kiss-cut-stickers-4x4-default-638fac818ba26_720x.png?v=1670360196" width="200" />
+      <a href="https://www.tangocard.com/reward-catalog/">
+      <img src="https://i.imgur.com/eib6hcc.png" width="200" />
       </a>
-      <h3>Cult Laptop Sticker</h3>
-      <h6>15 Points</h6>
+      <h3>$100 Gift Card</h3>
+      <h6>500 Points</h6>
     </td>
     <td> 
-      <a href="https://shop.haxor.sh/collections/haxor/products/caffeine_input_device-v0-00">
-      <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-49361b41_720x.png?v=1554331544" width="200"/>
+      <a href="https://store.steampowered.com/steamdeck">
+      <img src="https://i.imgur.com/2GLobsD.png" width="200"/>
       </a>
-      <h3>caffeine_input_device</h3>
-      <h6>35 Points</h6>
+      <h3>Steam Deck 64 GB</h3>
+      <h6>1,600 Points</h6>
+    </td>
+    <td> 
+      <a href="https://www.bestbuy.com/site/cyberpowerpc-gamer-xtreme-gaming-desktop-intel-core-5-12600kf-16gb-memory-nvidia-geforce-rtx-3050-500gb-ssd-black/6500510.p?skuId=6500510">
+      <img src="https://i.imgur.com/5EyfKjS.png" width="200"/>
+      </a>
+      <h3>CyberPowerPC Gaming Desktop</h3>
+      <h6>3,500 Points</h6>
+    </td>
+    <td> 
+      <a href="https://store.steampowered.com/steamdeck">
+      <img src="https://i.imgur.com/XPOzWbM.png" width="200"/>
+      </a>
+      <h3>M2 MacBook Pro</h3>
+      <h6>8,000 Points</h6>
     </td>
   </tr>
 </table>
-
-**You can earn up to 35 points per challenge.** You'll get 10 points for submitting feedback and 5 bonus points for completing the challenge. Redeem points for items the Haxor shop and other special prizes!
-
-- Haxor Mug - 30 Points
-- Haxor Logo Tee-Shirt - 90 Points
-- Haxor Graphic Tee-Shirt - 120 Points
-- Gift Card - 300 Points
-- Steam Deck - 1,000 Points
-
-## Community <a id="community"></a>
-
-<a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
-
-Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` role and personalized notificiations in our Discord.
 
 # Earning Points <a id="points"></a>
 
@@ -262,7 +271,7 @@ Haxor started when I wondered "how can we reward developers for participating in
 
 For 3 years Haxors has privately been helping open-source projects and companies like AWS, Snap, and Mailchimp get feedback from developers who try their tools. Now we're excited to bring Haxor to the larger open-source community with the help of our scren recording tool, Replayable.
 
-## How can I add my own challenge?
+## How can I add my own challenge? <a id="add-challenge"></a>
 
 Looking for feedback on yoru own API, SDK, or developer tool?
 
