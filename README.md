@@ -56,15 +56,17 @@ cd solutions/your-name
 
 Follow the challenge instructions. Every challenge will be unique. See some example instructions [here](https://github.com/haxordx/haxor-challenge-example/blob/main/README.md#instructions).
 
-#### 3. Report Bugs and Feedback
+#### 3. Report Bugs and Feedback 
 
-This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **Open GitHub issues on the base repository**. 
+This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **open GitHub issues on the base repository**. Every issue or feedback is worth 10 points.
 
 ```sh
 gh issue create -l "feedback" -w -b "`replayable --md`"	
 ```
 
 #### 4. Add Your Solution
+
+When you've completed the challenge, make a pull request to add your solution to the base repository. Successful solutions are worth 5 points.
 
 ```sh
 gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
