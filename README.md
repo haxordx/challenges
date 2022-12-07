@@ -280,6 +280,16 @@ Points will be deducted from your total (you can see this on in our leaderboard)
 
 (get examples from coda.io)
 
+## How does this work if solutions are public?
+
+Haxor isn't really about completing challenges, it's about the feedback we give maintainers. Sure, you could copy feedback and solutions, but that's why we use Replayable to validate submissions.
+
+## How do you prevent cheating?
+
+At the end of the day this is a community effort. Points and prizes are a cool thing we can do to reward community members. We reserve the right to refuse submissions, ban participants, revoke your points, etc.
+
+## Code of Conduct
+
 ## What programming languages?
 
 Currently the only languages we support are Javascript and Java.
