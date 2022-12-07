@@ -26,8 +26,9 @@ Try to complete the [challenges](#challenges) below. As you complete a challenge
 
 In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using [Replayable](https://replayable.io?betacode=1337HAXOR). Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
 
-## Getting Started <a id="toc"></a>
+## Table of Contents <a id="toc"></a>
 
+- [Quickstart](#guide)
 - [Community](#community)
 - [Challenges](#challenges)
 - [Earning Points](#rules)
@@ -38,9 +39,44 @@ In order to earn points for an issue or pull, you'll need to attach a desktop re
 
 ## Community <a id="community"></a>
 
+[Join our Discord community](https://discord.com/invite/cWDFW8DzPm) to meet other Haxors and get help solving challenges!
+
 <a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
 
 Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` role and personalized notificiations in our Discord.
+
+# Quickstart <a id="guide"></a>
+
+This guide will use the [example challenge](https://github.com/haxordx/haxor-challenge-example).
+
+#### Fork the repository
+
+[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [clone it](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+```sh
+git clone https://github.com/your-name/haxor-challenge-example
+cd haxor-challenge-example
+mkdir solutions/your-name
+cd solutions/your-name
+```
+
+#### Complete the Challenge
+
+Follow the challenge instructions. Every challenge will be unique. See some example instructions [here](https://github.com/haxordx/haxor-challenge-example/blob/main/README.md#instructions).
+
+#### Report Bugs and Feedback
+
+This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **Open GitHub issues on the base repository**. 
+
+```sh
+gh issue create -l "feedback" -w -b "`replayable --md`"	
+```
+
+#### Add Your Solution
+
+```sh
+gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
+```
 
 ## Challenges <a id="challenges"></a>
 
@@ -196,39 +232,6 @@ There aren't enough challenges to earn this many points yet, but these are the k
     </td>
   </tr>
 </table>
-
-# Completing a challenge <a id="guide"></a>
-
-This guide will use the [example challenge](https://github.com/haxordx/haxor-challenge-example).
-
-## Fork the repository
-
-[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [clone it](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
-
-```sh
-git clone https://github.com/your-name/haxor-challenge-example
-cd haxor-challenge-example
-mkdir solutions/your-name
-cd solutions/your-name
-```
-
-## Complete the Challenge
-
-Follow the challenge instructions. Every challenge will be unique. See some example instructions [here](https://github.com/haxordx/haxor-challenge-example/blob/main/README.md#instructions).
-
-## Report Bugs and Feedback
-
-This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **Open GitHub issues on the base repository**. 
-
-```sh
-gh issue create -l "feedback" -w -b "`replayable --md`"	
-```
-
-## Add Your Solution
-
-```sh
-gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
-```
 
 # Rules <a id="rules"></a>
 
