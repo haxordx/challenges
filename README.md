@@ -290,6 +290,8 @@ At the end of the day this is a community effort. Points and prizes are a cool t
 
 ## Code of Conduct
 
+See our code of conduct [here](https://github.com/haxordx/challenges/blob/main/code-of-conduct.md).
+
 ## What programming languages?
 
 Currently the only languages we support are Javascript and Java.
