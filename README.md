@@ -30,9 +30,9 @@ In order to earn points for an issue or pull, you'll need to attach a desktop re
 
 - [Community](#community)
 - [Challenges](#challenges)
-- [Earning Points](#points)
-  - [Giving Feedback (10 points)](#points-feedback)
-  - [Completing a Challenge (5 points)](#points-complete)
+- [Earning Points](#rules)
+  - [Giving Feedback (10 points)](#rules-feedback)
+  - [Completing a Challenge (5 points)](#rules-solution)
 - [Prizes](#prizes)
 - [Discord](#community)
 
@@ -203,18 +203,34 @@ This guide will use the [example challenge](https://github.com/haxordx/haxor-cha
 
 ## Fork the repository
 
-[Fork the repository and clone it](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [clone it](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
-```
-git clone https://github.com/haxordx/haxor-challenge-example
+```sh
+git clone https://github.com/your-name/haxor-challenge-example
 cd haxor-challenge-example
+mkdir solutions/your-name
+cd solutions/your-name
 ```
 
-- Try to accomplish the goal
-- Add Feedback
-- Make a PR
+## Complete the Challenge
 
-# Earning Points <a id="points"></a>
+Follow the challenge instructions. Every challenge will be unique. See some example instructions [here](https://github.com/haxordx/haxor-challenge-example/blob/main/README.md#instructions).
+
+## Report Bugs and Feedback
+
+This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **Open GitHub issues on the parent repository**. 
+
+```sh
+gh issue create -l "feedback" -w -b "`replayable --md`"	
+```
+
+## Add Your Solution
+
+```sh
+gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
+```
+
+# Rules <a id="rules"></a>
 
 <img src="https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png" width="800"/>
 
@@ -224,7 +240,7 @@ Mostly everything happens on GitHub (but you should also join our Discord!). You
 
 In order to earn points for your submission, it must contain a 30-second or longer screencast demoing the bug, feedback, or feature.
 
-### Feedback (10 Points)<a id="points-feedback"></a>
+### Feedback (10 Points)<a id="rules-feedback"></a>
 
 > 10 points per GitHub Issue, 30 points max per challenge
 
@@ -245,7 +261,7 @@ The following shell script will open a GitHub issue with a clip of the last 30 s
 gh issue create -w -t "My Feedback" -b "`replayable --md`"
 ```
 
-### Completing the Challenge (5 Points) <a id="points-complete"></a>
+### Adding Your Solution (5 Points) <a id="rules-solution"></a>
 
 > 5 Points and Hall of Fame!
 
@@ -261,8 +277,6 @@ In order to get your github profile on the scoreboard and earn points for comple
 #### Using the Replayable CLI
 
 ```sh
-echo 'Your Username' &>>README.md
-git commit -am "Add my name to the leaderboard"
 gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
 ```
 
