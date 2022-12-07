@@ -36,7 +36,7 @@ In order to earn points for an issue or pull, you'll need to attach a desktop re
   - [Completing a Challenge (5 points)](#rules-solution)
 - [Prizes](#prizes)
 - [Discord](#community)
-- 
+
 # Quickstart <a id="guide"></a>
 
 This guide will use the [example challenge](https://github.com/haxordx/haxor-challenge-example), but you should [choose one from the list of challenges below.](#challenges).
