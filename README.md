@@ -41,7 +41,7 @@ In order to earn points for an issue or pull, you'll need to attach a desktop re
 
 This guide will use the [example challenge](https://github.com/haxordx/haxor-challenge-example), but you should [choose one from the list of challenges below.](#challenges).
 
-#### Fork the repository
+#### 1. Fork the Repository
 
 [Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [clone it](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
@@ -52,11 +52,11 @@ mkdir solutions/your-name
 cd solutions/your-name
 ```
 
-#### Complete the Challenge
+#### 2. Complete the Challenge
 
 Follow the challenge instructions. Every challenge will be unique. See some example instructions [here](https://github.com/haxordx/haxor-challenge-example/blob/main/README.md#instructions).
 
-#### Report Bugs and Feedback
+#### 3. Report Bugs and Feedback
 
 This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **Open GitHub issues on the base repository**. 
 
@@ -64,7 +64,7 @@ This is the whole point of Haxor! When you encounter friction, confusion, or bug
 gh issue create -l "feedback" -w -b "`replayable --md`"	
 ```
 
-#### Add Your Solution
+#### 4. Add Your Solution
 
 ```sh
 gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
