@@ -80,15 +80,13 @@ gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
 
 ## Challenges <a id="challenges"></a>
 
-Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine.
-
-## Javascript
+### Javascript
 
 - Recognize text in an image with Tesseract.js
 - Create a realtime chat application with PubNub
 - Send and receive SMS messages with Twilio
 
-## Java
+### Java
 
 # Prizes <a id="prizes"></a>
 
@@ -233,7 +231,9 @@ There aren't enough challenges to earn this many points yet, but these are the k
   </tr>
 </table>
 
-# Rules <a id="rules"></a>
+## Rules <a id="rules"></a>
+
+Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine.
 
 <img src="https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png" width="800"/>
 
@@ -241,9 +241,11 @@ Mostly everything happens on GitHub (but you should also join our Discord!). You
 
 > Replayable makes it simple to add context to bugs and pull requests without ruining your flow. Instead of spending time trying to reproduce a bug in a new screencast, Replayable lets you add footage from when you encountered it the first time. It works full pull requests and demos too! Check out our CLI and Chrome Extension for GitHub and Jira.
 
+### Scoring Points
+
 In order to earn points for your submission, it must contain a 30-second or longer screencast demoing the bug, feedback, or feature.
 
-### Feedback (10 Points)<a id="rules-feedback"></a>
+#### Feedback (10 Points)<a id="rules-feedback"></a>
 
 > 10 points per GitHub Issue, 30 points max per challenge
 
@@ -256,7 +258,7 @@ Giving feedback to maintainers is the whole point of Haxor. It's as easy as open
 
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
 
-#### Using the Replayable CLI
+##### Using the Replayable CLI
 
 The following shell script will open a GitHub issue with a clip of the last 30 seconds of your screen.
 
@@ -264,7 +266,7 @@ The following shell script will open a GitHub issue with a clip of the last 30 s
 gh issue create -w -t "My Feedback" -b "`replayable --md`"
 ```
 
-### Adding Your Solution (5 Points) <a id="rules-solution"></a>
+#### Adding Your Solution (5 Points) <a id="rules-solution"></a>
 
 > 5 Points and Hall of Fame!
 
@@ -277,13 +279,13 @@ In order to get your github profile on the scoreboard and earn points for comple
 1. Open a pull request that adds your name to the leaderboard
 2. Attach a replay of you **demonstrating the exit criteria** to the PR
 
-#### Using the Replayable CLI
+##### Using the Replayable CLI
 
 ```sh
 gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
 ```
 
-## Get Prizes <a id="cash-out"></a>
+### Prizes <a id="cash-out"></a>
 
 Haxor moderators get pinged on new submissions to the repositories and will comment on the issue or pull request to confirm your points.
 
