@@ -197,6 +197,23 @@ There aren't enough challenges to earn this many points yet, but these are the k
   </tr>
 </table>
 
+# Completing a challenge <a id="guide"></a>
+
+This guide will use the [example challenge](https://github.com/haxordx/haxor-challenge-example).
+
+## Fork the repository
+
+[Fork the repository and clone it](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+
+```
+git clone https://github.com/haxordx/haxor-challenge-example
+cd haxor-challenge-example
+```
+
+- Try to accomplish the goal
+- Add Feedback
+- Make a PR
+
 # Earning Points <a id="points"></a>
 
 <img src="https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png" width="800"/>
@@ -277,7 +294,7 @@ For 3 years Haxors has privately been helping open-source projects and companies
 
 Looking for feedback on yoru own API, SDK, or developer tool?
 
-- For the [haxor-challenge-template](https://github.com/haxordx/haxor-challenge-template) repo.
+- For the [haxor-challenge-example](https://github.com/haxordx/haxor-challenge-example) repo.
 - Make a new repo called `haxor-challenge-${your-tool}`
   - List an ETA (15 min - 2 hours)
   - Make guided a developer should follow to complete the challenge
