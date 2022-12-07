@@ -237,7 +237,7 @@ There aren't enough challenges to earn this many points yet, but these are the k
 
 Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine.
 
-<img src="https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png" width="800"/>
+<img src="https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png"/>
 
 Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
 
