@@ -26,8 +26,6 @@ Try to complete the [challenges](#challenges) below. As you complete a challenge
 
 In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using [Replayable](https://replayable.io?betacode=1337HAXOR). Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
 
-![image](https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png)
-
 ## Getting Started <a id="toc"></a>
 
 - [Community](#community)
@@ -200,6 +198,8 @@ There aren't enough challenges to earn this many points yet, but these are the k
 </table>
 
 # Earning Points <a id="points"></a>
+
+<img src="https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png" width="800"/>
 
 Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
 
