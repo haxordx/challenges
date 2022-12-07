@@ -36,18 +36,10 @@ In order to earn points for an issue or pull, you'll need to attach a desktop re
   - [Completing a Challenge (5 points)](#rules-solution)
 - [Prizes](#prizes)
 - [Discord](#community)
-
-## Community <a id="community"></a>
-
-[Join our Discord community](https://discord.com/invite/cWDFW8DzPm) to meet other Haxors and get help solving challenges!
-
-<a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
-
-Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` role and personalized notificiations in our Discord.
-
+- 
 # Quickstart <a id="guide"></a>
 
-This guide will use the [example challenge](https://github.com/haxordx/haxor-challenge-example).
+This guide will use the [example challenge](https://github.com/haxordx/haxor-challenge-example), but you should [choose one from the list of challenges below.](#challenges).
 
 #### Fork the repository
 
@@ -77,6 +69,14 @@ gh issue create -l "feedback" -w -b "`replayable --md`"
 ```sh
 gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
 ```
+
+## Community <a id="community"></a>
+
+[Join our Discord community](https://discord.com/invite/cWDFW8DzPm) to meet other Haxors and get help solving challenges!
+
+<a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
+
+Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` role and personalized notificiations in our Discord.
 
 ## Challenges <a id="challenges"></a>
 
