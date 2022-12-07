@@ -196,7 +196,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
   </tr>
 </table>
 
-## Grand Prizes (Coming Soon)
+## Grand Prizes
 
 There aren't enough challenges to earn this many points yet, but these are the kinds of prizes we dream of offering! Help us grow! <a href="#add-challenge">Add your own challenge</a>.
 
