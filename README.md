@@ -35,7 +35,7 @@ In order to earn points for an issue or pull, you'll need to attach a desktop re
 - [Community](#community)
 - [Challenges](#challenges)
 - [Earning Points](#rules)
-  - [Giving Feedback (10 points)](#rules-feedback)
+  - [Reporting Friction (10 points)](#rules-feedback)
   - [Completing a Challenge (5 points)](#rules-solution)
 - [Prizes](#prizes)
 - [Discord](#community)
@@ -61,7 +61,7 @@ Follow the challenge instructions. Every challenge will be unique. See some exam
 
 #### 3. Report Bugs and Friction 
 
-This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **open GitHub issues on the base repository**. Every issue or feedback is worth 10 points and you can get rewarded up to 3x per challenge!
+This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **open GitHub issues on the base repository**. Every issue is worth 10 points and you can get rewarded up to 3x per challenge!
 
 ```sh
 gh issue create -l "feedback" -w -b "`replayable --md`"	
