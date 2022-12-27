@@ -7,7 +7,7 @@
 Haxor is a community effort to help devtools maintainers remove friction from their developer experience (DX). Haxor is like a bug bounty but differs in a couple of ways:
 
 1. Participants submit feedback in addition to bugs. Feedback can be anything that causes you friction when completing the goal, like confusing documentation or time-wasting errors.
-2. Participants submit screen recording clips with feedback.
+2. Participants attach screen recording clips to issues.
 
 ## Welcome <a id="welcome"></a>
 
@@ -59,7 +59,7 @@ cd solutions/your-name
 
 Follow the challenge instructions. Every challenge will be unique. See some example instructions [here](https://github.com/haxordx/haxor-challenge-example/blob/main/README.md#instructions).
 
-#### 3. Report Bugs and Feedback 
+#### 3. Report Bugs and Friction 
 
 This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **open GitHub issues on the base repository**. Every issue or feedback is worth 10 points and you can get rewarded up to 3x per challenge!
 
