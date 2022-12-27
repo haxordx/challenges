@@ -4,7 +4,10 @@
 
 # Haxor DX Bounty
 
-Haxor is a community effort to help devtools maintainers remove friction from their developer experience (DX).
+Haxor is a community effort to help devtools maintainers remove friction from their developer experience (DX). Haxor is like a bug bounty but differs in a couple of ways:
+
+1. Participants submit feedback in addition to bugs. Feedback can be anything that causes you friction when completing the goal, like confusing documentation or time-wasting errors.
+2. Participants submit screen recording clips with feedback.
 
 ## Welcome <a id="welcome"></a>
 
