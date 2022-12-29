@@ -4,39 +4,80 @@
 
 # Haxor DX Bounty
 
-> Haxor is a community effort to help devtools maintainers improve their developer experience (DX).
+Haxor is a community effort to help devtools maintainers remove friction from their developer experience (DX). Haxor is like a bug bounty but differs in a couple of ways:
+
+1. Participants submit feedback in addition to bugs. Feedback can be anything that causes you friction when completing the goal, like confusing documentation or time-wasting errors.
+2. Participants attach screen recording clips to issues.
 
 ## Welcome <a id="welcome"></a>
 
-Hello and welcome to the Haxor DX Bounty! Here you get to try new developer tools, give the maintainers feedback, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
+Hello and welcome to the Haxor DX Bounty! Here you get to try new dev tools, help make them better, and **earn prizes**! Every bug we find helps the next developer save time! The feedback you provide helps maintainers improve their DX.
 
 ## Sponsors <a id="sponsors"></a>
 
 <p float="left">
-<a href="https://replayable.io">
-<img height="30" src="https://user-images.githubusercontent.com/318295/203247573-b4f2e617-bb6c-49fd-b6e1-68141d3828ba.png">
-</a>
+<a href="https://replayable.io"><img height="30" src="https://user-images.githubusercontent.com/318295/203247573-b4f2e617-bb6c-49fd-b6e1-68141d3828ba.png"></a>
 &nbsp;&nbsp;
-<a href="https://pubnub.com">
-  <img height="30" src="https://user-images.githubusercontent.com/318295/203247474-984f7cf2-ca49-48fe-a074-e7dc786bb24c.png">
-  </a>
+<a href="https://pubnub.com"><img height="30" src="https://user-images.githubusercontent.com/318295/203247474-984f7cf2-ca49-48fe-a074-e7dc786bb24c.png"></a>
 &nbsp;&nbsp;
-<a href="https://mlh.io">
-<img height="30" alt="CleanShot 2022-11-22 at 01 10 01@2x" src="https://user-images.githubusercontent.com/318295/203248304-34a30601-b811-4f8c-9744-6690d9073794.png">
-  </a>
+<a href="https://mlh.io"><img height="30" alt="CleanShot 2022-11-22 at 01 10 01@2x" src="https://user-images.githubusercontent.com/318295/203248304-34a30601-b811-4f8c-9744-6690d9073794.png"></a>
 </p>
 
-## Getting Started <a id="toc"></a>
+## How It Works
 
+Try to complete the [challenges](#challenges) below. As you complete a challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
+
+In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using [Replayable](https://replayable.io?betacode=1337HAXOR). Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
+
+## Table of Contents <a id="toc"></a>
+
+- [Quickstart](#guide)
 - [Community](#community)
 - [Challenges](#challenges)
-- [Earning Points](#points)
-  - [Giving Feedback (10 points)](#points-feedback)
-  - [Completing a Challenge (5 points)](#points-complete)
+- [Earning Points](#rules)
+  - [Reporting Friction (10 points)](#rules-feedback)
+  - [Completing a Challenge (5 points)](#rules-solution)
 - [Prizes](#prizes)
 - [Discord](#community)
 
+# Quickstart <a id="guide"></a>
+
+This guide will use the [example challenge](https://github.com/haxordx/haxor-challenge-example), but you should [choose one from the list of challenges below.](#challenges).
+
+#### 1. Fork the Repository
+
+[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [clone it](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+```sh
+git clone https://github.com/your-name/haxor-challenge-example
+cd haxor-challenge-example
+mkdir solutions/your-name
+cd solutions/your-name
+```
+
+#### 2. Complete the Challenge
+
+Follow the challenge instructions. Every challenge will be unique. See some example instructions [here](https://github.com/haxordx/haxor-challenge-example/blob/main/README.md#instructions).
+
+#### 3. Report Bugs and Friction 
+
+This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **open GitHub issues on the base repository**. Every issue is worth 10 points and you can get rewarded up to 3x per challenge!
+
+```sh
+gh issue create -l "feedback" -w -b "`replayable --md`"	
+```
+
+#### 4. Add Your Solution
+
+When you've completed the challenge, make a pull request to add your solution to the base repository. Successful solutions are worth 5 points.
+
+```sh
+gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
+```
+
 ## Community <a id="community"></a>
+
+[Join our Discord community](https://discord.com/invite/cWDFW8DzPm) to meet other Haxors and get help solving challenges!
 
 <a href="https://discord.com/invite/cWDFW8DzPm"><img src="https://user-images.githubusercontent.com/318295/203452258-7df58408-3247-4df8-9307-d71e4e95ad1f.png" height="40"></a>
 
@@ -44,11 +85,13 @@ Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` r
 
 ## Challenges <a id="challenges"></a>
 
-Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine.
+### Javascript
 
-## Javascript
+- Recognize text in an image with Tesseract.js
+- Create a realtime chat application with PubNub
+- Send and receive SMS messages with Twilio
 
-## Java
+### Java
 
 # Prizes <a id="prizes"></a>
 
@@ -156,7 +199,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
   </tr>
 </table>
 
-## Grand Prizes (Coming Soon)
+## Grand Prizes
 
 There aren't enough challenges to earn this many points yet, but these are the kinds of prizes we dream of offering! Help us grow! <a href="#add-challenge">Add your own challenge</a>.
 
@@ -193,19 +236,21 @@ There aren't enough challenges to earn this many points yet, but these are the k
   </tr>
 </table>
 
-# Earning Points <a id="points"></a>
+## Rules <a id="rules"></a>
 
-Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
+Our feedback sessions are called challenges. Every challenge asks you to build a small app or add a single feature using a developer tool. Each challenge takes between 15 minutes to 2 hours and you complete them on your own machine.
 
-Try to complete the challenge objective. As you complete the challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
+<img src="https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png"/>
 
-In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using Replayable. Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
+Mostly everything happens on GitHub (but you should also [join our Discord](https://discord.com/invite/cWDFW8DzPm)!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
 
 > Replayable makes it simple to add context to bugs and pull requests without ruining your flow. Instead of spending time trying to reproduce a bug in a new screencast, Replayable lets you add footage from when you encountered it the first time. It works full pull requests and demos too! Check out our CLI and Chrome Extension for GitHub and Jira.
 
+### Scoring Points
+
 In order to earn points for your submission, it must contain a 30-second or longer screencast demoing the bug, feedback, or feature.
 
-### Feedback (10 Points)<a id="points-feedback"></a>
+#### Feedback (10 Points)<a id="rules-feedback"></a>
 
 > 10 points per GitHub Issue, 30 points max per challenge
 
@@ -218,7 +263,7 @@ Giving feedback to maintainers is the whole point of Haxor. It's as easy as open
 
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
 
-#### Using the Replayable CLI
+##### Using the Replayable CLI
 
 The following shell script will open a GitHub issue with a clip of the last 30 seconds of your screen.
 
@@ -226,7 +271,7 @@ The following shell script will open a GitHub issue with a clip of the last 30 s
 gh issue create -w -t "My Feedback" -b "`replayable --md`"
 ```
 
-### Completing the Challenge (5 Points) <a id="points-complete"></a>
+#### Adding Your Solution (5 Points) <a id="rules-solution"></a>
 
 > 5 Points and Hall of Fame!
 
@@ -239,15 +284,13 @@ In order to get your github profile on the scoreboard and earn points for comple
 1. Open a pull request that adds your name to the leaderboard
 2. Attach a replay of you **demonstrating the exit criteria** to the PR
 
-#### Using the Replayable CLI
+##### Using the Replayable CLI
 
 ```sh
-echo 'Your Username' &>>README.md
-git commit -am "Add my name to the leaderboard"
 gh pr create -w -t "I Completed the Haxor Challenge" -b "`replayable --md`"
 ```
 
-## Get Prizes <a id="cash-out"></a>
+### Prizes <a id="cash-out"></a>
 
 Haxor moderators get pinged on new submissions to the repositories and will comment on the issue or pull request to confirm your points.
 
@@ -260,6 +303,18 @@ Points will be deducted from your total (you can see this on in our leaderboard)
 ## What does quality feedback look like?
 
 (get examples from coda.io)
+
+## How does this work if solutions are public?
+
+Haxor isn't really about completing challenges, it's about the feedback we give maintainers. Sure, you could copy feedback and solutions, but that's why we use Replayable to validate submissions.
+
+## How do you prevent cheating?
+
+At the end of the day this is a community effort. Points and prizes are a cool thing we can do to reward community members. We reserve the right to refuse submissions, ban participants, revoke your points, etc.
+
+## Code of Conduct
+
+See our code of conduct [here](https://github.com/haxordx/challenges/blob/main/code-of-conduct.md).
 
 ## What programming languages?
 
@@ -275,7 +330,7 @@ For 3 years Haxors has privately been helping open-source projects and companies
 
 Looking for feedback on yoru own API, SDK, or developer tool?
 
-- For the [haxor-challenge-template](https://github.com/haxordx/haxor-challenge-template) repo.
+- For the [haxor-challenge-example](https://github.com/haxordx/haxor-challenge-example) repo.
 - Make a new repo called `haxor-challenge-${your-tool}`
   - List an ETA (15 min - 2 hours)
   - Make guided a developer should follow to complete the challenge
