@@ -79,14 +79,14 @@ Represent your 1337 skills with Haxor branded merch.
       <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/mockup-00948d62_720x.png?v=1553234911" width="200"/>
       </a>
       <h3>BlackHat</h3>
-      <h6>140 Points</h6>
+      <h6>150 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/haxor/products/mandatory-hoodie">
       <img src="https://cdn.shopify.com/s/files/1/0073/8708/6899/products/unisex-fleece-zip-up-hoodie-black-front-638fae43cd95f_720x.png?v=1670360653" width="200"/>
       </a>
       <h3>Mandatory Hoodie</h3>
-      <h6>250 Points</h6>
+      <h6>350 Points</h6>
     </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Freeke Shirt</h4>
       <h5>15 Variations</h5>
-      <h6>100 Points</h6>
+      <h6>150 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/refactory">
@@ -111,7 +111,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Refactory Shirt</h4>
       <h5>13 Variations</h5>
-      <h6>100 Points</h6>
+      <h6>150 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/hyperblock">
@@ -119,7 +119,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>HyperBlock Shirt</h4>
       <h5>20 Variations</h5>
-      <h6>100 Points</h6>
+      <h6>150 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/noisestorm">
@@ -127,7 +127,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>NoiseStorm Shirt</h4>
       <h5>20 Variations</h5>
-      <h6>100 Points</h6>
+      <h6>150 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/dancingflame">
@@ -135,7 +135,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Dancing Flame</h4>
       <h5>25 Variations</h5>
-      <h6>100 Points</h6>
+      <h6>150 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/entanglement">
@@ -143,7 +143,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Entanglement Shirt</h4>
       <h5>30 Variations</h5>
-      <h6>100 Points</h6>
+      <h6>150 Points</h6>
     </td>
     <td> 
       <a href="https://shop.haxor.sh/collections/skrill">
@@ -151,7 +151,7 @@ Hundreds of shirts that were programatically generated! Every design has multipl
       </a>
       <h4>Skrill Shirt</h4>
       <h5>60 Variations</h5>
-      <h6>100 Points</h6>
+      <h6>150 Points</h6>
     </td>
   </tr>
 </table>
@@ -167,28 +167,28 @@ There aren't enough challenges to earn this many points yet, but these are the k
       <img src="https://i.imgur.com/eib6hcc.png" width="200" />
       </a>
       <h3>$100 Gift Card</h3>
-      <h6>500 Points</h6>
+      <h6>800 Points</h6>
     </td>
     <td> 
       <a href="https://store.steampowered.com/steamdeck">
       <img src="https://i.imgur.com/2GLobsD.png" width="200"/>
       </a>
       <h3>Steam Deck 64 GB</h3>
-      <h6>1,600 Points</h6>
+      <h6>3,000 Points</h6>
     </td>
     <td> 
       <a href="https://www.bestbuy.com/site/cyberpowerpc-gamer-xtreme-gaming-desktop-intel-core-5-12600kf-16gb-memory-nvidia-geforce-rtx-3050-500gb-ssd-black/6500510.p?skuId=6500510">
       <img src="https://i.imgur.com/5EyfKjS.png" width="200"/>
       </a>
       <h3>CyberPowerPC Gaming Desktop</h3>
-      <h6>3,500 Points</h6>
+      <h6>7,000 Points</h6>
     </td>
     <td> 
       <a href="https://store.steampowered.com/steamdeck">
       <img src="https://i.imgur.com/XPOzWbM.png" width="200"/>
       </a>
       <h3>M2 MacBook Pro</h3>
-      <h6>8,000 Points</h6>
+      <h6>15,000 Points</h6>
     </td>
   </tr>
 </table>
