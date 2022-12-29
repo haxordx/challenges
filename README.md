@@ -242,7 +242,7 @@ Our feedback sessions are called challenges. Every challenge asks you to build a
 
 <img src="https://user-images.githubusercontent.com/318295/206043366-f14c5931-fa37-4321-b0d1-6f724b20fbc5.png"/>
 
-Mostly everything happens on GitHub (but you should also join our Discord!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
+Mostly everything happens on GitHub (but you should also [join our Discord](https://discord.com/invite/cWDFW8DzPm)!). You can see a list of challenges below. Each challenge will include it's own time estimate and goal.
 
 > Replayable makes it simple to add context to bugs and pull requests without ruining your flow. Instead of spending time trying to reproduce a bug in a new screencast, Replayable lets you add footage from when you encountered it the first time. It works full pull requests and demos too! Check out our CLI and Chrome Extension for GitHub and Jira.
 
