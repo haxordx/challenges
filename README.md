@@ -59,12 +59,12 @@ cd solutions/your-name
 
 Follow the challenge instructions. Every challenge will be unique. See some example instructions [here](https://github.com/haxordx/haxor-challenge-example/blob/main/README.md#instructions).
 
-#### 3. Report Bugs and Friction 
+#### 3. Report Bugs and Friction
 
 This is the whole point of Haxor! When you encounter friction, confusion, or bugs, **open GitHub issues on the base repository**. Every issue is worth 10 points and you can get rewarded up to 3x per challenge!
 
 ```sh
-gh issue create -l "feedback" -w -b "`replayable --md`"	
+gh issue create -l "feedback" -w -b "`replayable --md`"
 ```
 
 #### 4. Add Your Solution
@@ -300,9 +300,26 @@ Points will be deducted from your total (you can see this on in our leaderboard)
 
 # FAQ
 
-## What does quality feedback look like?
+## What makes quality feedback?
 
-(get examples from coda.io)
+Note that all feedback should include a Replayable replay as well as a short description of your problem and experience.
+
+- Identify specific areas where you struggled, such as with understanding documentation or debugging an error
+- Provide concrete suggestions for improving the developer experience, such as adding more examples to the documentation or clarifying ambiguous language
+- Offer suggestions for alternative approaches or tools that may be more effective
+- Be respectful and constructive, rather than critical or dismissive
+
+## What are some examples of quality feedback?
+
+The quotes below were taken from previous Haxor challenges that were awarded points for their feedback.
+
+> At first, I tried installing through the gradle plugin, but it kept throwing errors, despite installing it how the documentation said to. Then I switched to a maven project which, admittedly, I am not familiar with. Even then following documentation and examples online, it was not allowing me to download and execute the example getting started code.
+
+> Using my existing account/number/service plan didn't work through Java SDK, but does work through the button click online interface. When I released that account/number/service plan and created a fresh one, sending an SMS through the Java SDK worked.
+
+> Setting up the virtual number is confusing. Not sure if my phone number will suffix or do I really need a virtual number. Also, its not exactly clear how to create the virtual number on the site.
+
+> Message is always "This is a test message from your account", regardless of what message I put in when using the Java SDK. Is this a limitation of the trial account/free account? Or is it a bug? If the former, I didn't see it documented clearly anywhere.
 
 ## How does this work if solutions are public?
 
@@ -332,11 +349,18 @@ Looking for feedback on yoru own API, SDK, or developer tool?
 
 - For the [haxor-challenge-example](https://github.com/haxordx/haxor-challenge-example) repo.
 - Make a new repo called `haxor-challenge-${your-tool}`
-  - List an ETA (15 min - 2 hours)
-  - Make guided a developer should follow to complete the challenge
+  - List an estimated time to completion. Maximum 2 hours.
+  - Make guide a developer should follow to complete the challenge. There's an art to this.
+    - Be too specific and you'll get repetitive feedback.
+    - Be too broad, and you won't be able to identify patterns.
+    - It helps to suggest resources developers may use.
 - Make a pull request to the list above linking to your tool
   - We will approve or request changes to your challenge
+  - We will supply you with a webhook to add to your repo. This tells Haxor moderators to review submissions and award points.
 - Developers will be notified of your new challenge!
+- You'll get GitHub notifications of new issues!
+
+You will be responsible for maintaining your challenge.
 
 ### Requirements
 
