@@ -87,11 +87,7 @@ Type `!signup [your github username]` in the `#bot` channel to get the `Haxor` r
 
 ### Javascript
 
-- Recognize text in an image with Tesseract.js
-- Create a realtime chat application with PubNub
-- Send and receive SMS messages with Twilio
-
-### Java
+- [Create a realtime chat application with PubNub](https://github.com/haxordx/haxor-challenge-pubnub-js-getting-started)
 
 # Prizes <a id="prizes"></a>
 
@@ -347,18 +343,14 @@ For 3 years Haxors has privately been helping open-source projects and companies
 
 Looking for feedback on yoru own API, SDK, or developer tool?
 
-- For the [haxor-challenge-example](https://github.com/haxordx/haxor-challenge-example) repo.
-- Make a new repo called `haxor-challenge-${your-tool}`
-  - List an estimated time to completion. Maximum 2 hours.
-  - Make guide a developer should follow to complete the challenge. There's an art to this.
-    - Be too specific and you'll get repetitive feedback.
-    - Be too broad, and you won't be able to identify patterns.
-    - It helps to suggest resources developers may use.
-- Make a pull request to the list above linking to your tool
-  - We will approve or request changes to your challenge
-  - We will supply you with a webhook to add to your repo. This tells Haxor moderators to review submissions and award points.
-- Developers will be notified of your new challenge!
-- You'll get GitHub notifications of new issues!
+1. Fork the [haxor-challenge-example](https://github.com/haxordx/haxor-challenge-example) repo.
+2. Make a new repo called `haxor-challenge-${your-tool}`
+3. Replace the readme in your template with your own challenge details.
+4. Make a pull request to the list above linking to your tool
+5. We will approve or request changes to your challenge
+6. We will supply you with a webhook to add to your repo. This tells Haxor moderators to review submissions and award points.
+7. Developers will be notified of your new challenge!
+8. You'll get GitHub notifications of new issues!
 
 You will be responsible for maintaining your challenge.
 
