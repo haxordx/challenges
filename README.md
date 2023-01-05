@@ -25,7 +25,7 @@ Hello and welcome to the Haxor DX Bounty! Here you get to try new dev tools, hel
 
 ## How It Works
 
-Try to complete the [challenges](#challenges) below. As you complete a challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard!
+Try to complete the [challenges](#challenges) below. As you complete a challenge, you can file any feedback or bugs you find as issues in the challenge repo. Once you complete the challenge, you can make a pull request adding yourself to the leaderboard! Check out this [example of quality feedback](https://github.com/haxordx/haxor-challenge-pubnub-js-getting-started/issues/1).
 
 In order to earn points for an issue or pull, you'll need to attach a desktop replay clip using [Replayable](https://replayable.io?betacode=1337HAXOR). Replays help maintainers understand the context of your feedback and they help our moderators validate you submissions.
 
@@ -259,6 +259,8 @@ Giving feedback to maintainers is the whole point of Haxor. It's as easy as open
 
 Your experience will help maintainers improve their tools and remove friction for the next developer. And remember, developer experience uses many tools and is different for everyone.
 
+Check out this [example of quality feedback](https://github.com/haxordx/haxor-challenge-pubnub-js-getting-started/issues/1).
+
 ##### Using the Replayable CLI
 
 The following shell script will open a GitHub issue with a clip of the last 30 seconds of your screen.
@@ -307,7 +309,7 @@ Note that all feedback should include a Replayable replay as well as a short des
 
 ## What are some examples of quality feedback?
 
-The quotes below were taken from previous Haxor challenges that were awarded points for their feedback.
+Check out this [example of quality feedback](https://github.com/haxordx/haxor-challenge-pubnub-js-getting-started/issues/1). You can find some more examples below, but remember your bugs, issues, and feedback need to include Replayable replays!
 
 > At first, I tried installing through the gradle plugin, but it kept throwing errors, despite installing it how the documentation said to. Then I switched to a maven project which, admittedly, I am not familiar with. Even then following documentation and examples online, it was not allowing me to download and execute the example getting started code.
 
